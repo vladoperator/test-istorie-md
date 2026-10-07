@@ -138,7 +138,56 @@ Conferința completează **sistemul Versailles–Washington**.
 
 ---
 
-## 6. Termenii esențiali
+## 6. Ferdinand I și Ion Inculeț
+
+### Ferdinand I — „Întregitorul”
+
+**Cine a fost:** regele României între **1914 și 1927**, urmașul lui Carol I.
+
+**Ce a făcut:**
+
+- În **1916**, a acceptat intrarea României în război alături de **Antanta**, pentru realizarea unității naționale, deși provenea dintr-o familie germană.
+- A sprijinit reorganizarea armatei și rezistența României în război.
+- În **1918**, a refuzat să promulge pacea impusă de Puterile Centrale.
+- În timpul domniei sale s-a realizat **Marea Unire din 1918**. A confirmat prin acte regale unirile provinciilor cu România.
+- La **15 octombrie 1922**, Ferdinand și regina Maria au fost încoronați la **Alba Iulia** ca suverani ai României Mari.
+
+**De ce este important:** este numit **„Întregitorul”**, deoarece sub domnia sa s-a realizat România Mare.
+
+> **Răspuns de învățat:** Ferdinand I a fost regele României în anii 1914–1927. A susținut participarea la război alături de Antanta și realizarea unității naționale. În timpul domniei sale s-a înfăptuit Marea Unire din 1918, de aceea este numit „Întregitorul”.
+
+### Ion Inculeț — președintele Sfatului Țării
+
+**Cine a fost:** om politic basarabean, cu pregătire în fizică și matematică, unul dintre conducătorii mișcării politice din Basarabia.
+
+**Ce a făcut:**
+
+- La **21 noiembrie 1917**, a fost ales **președintele Sfatului Țării**, organul reprezentativ al Basarabiei.
+- A avut un rol important în organizarea **Republicii Democratice Moldovenești** și în procesul desprinderii de Rusia.
+- A susținut și a votat **unirea Basarabiei cu România**, la **27 martie/9 aprilie 1918**.
+- A **semnat Declarația Unirii**, în calitate de președinte al Sfatului Țării.
+- După unire, a fost ministru în guvernele României și a contribuit la integrarea Basarabiei în statul român.
+
+**De ce este important:** a contribuit la realizarea **unirii Basarabiei cu România**.
+
+> **Răspuns de învățat:** Ion Inculeț a fost președintele Sfatului Țării. A avut un rol important în viața politică a Basarabiei și a susținut unirea cu România. La 27 martie/9 aprilie 1918, a votat unirea și a semnat Declarația Unirii.
+
+### Cum îi deosebești ușor
+
+| Ferdinand I | Ion Inculeț |
+|---|---|
+| **Rege** al României | **Președinte** al Sfatului Țării |
+| Asociat cu **România Mare** | Asociat cu **unirea Basarabiei** |
+| **1914–1927**, domnia | **1917**, alegerea ca președinte |
+| **1922**, încoronarea la Alba Iulia | **1918**, votarea și semnarea unirii |
+
+> **Formula de memorat:** Ferdinand — rege — România Mare. Inculeț — Sfatul Țării — Basarabia.
+
+Surse pentru completare: [Ferdinand I — AGERPRES](https://agerpres.ro/documentare/2018/11/28/1918-anul-marii-uniri-regele-ferdinand-i-intregitorul-1914-1927--219054), [Ion Inculeț — AGERPRES](https://agerpres.ro/documentare/2018/03/07/1918-anul-marii-uniri-ion-inculet-personalitate-marcanta-a-unirii-basarabiei-cu-romania--83145).
+
+---
+
+## 7. Termenii esențiali
 
 | Termenul | Definiția scurtă |
 |---|---|
@@ -155,7 +204,7 @@ Conferința completează **sistemul Versailles–Washington**.
 
 ---
 
-## 7. Verificare rapidă
+## 8. Verificare rapidă
 
 **Acoperă textul și răspunde:**
 
@@ -165,6 +214,8 @@ Conferința completează **sistemul Versailles–Washington**.
 4. Care sunt cele patru trepte parcurse de Basarabia?
 5. Când s-au unit cele trei provincii?
 6. Ce tratat corespunde fiecărei provincii?
+7. De ce Ferdinand I este numit „Întregitorul”?
+8. Ce funcție avea Ion Inculeț și cum a contribuit la unire?
 
 > Dacă poți răspunde la acestea și explica termenii, ai reținut baza lecțiilor. Repetă mai ales răspunsurile la care te-ai încurcat.
 
